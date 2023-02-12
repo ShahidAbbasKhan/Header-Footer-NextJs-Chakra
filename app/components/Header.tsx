@@ -19,7 +19,7 @@ export default function Header() {
           </Box>
           <Flex
             alignItems={"center"}
-            gap={"15px"}
+            gap={"20px"}
             color="black"
             fontSize={"18px"}
             fontWeight={"semibold"}
@@ -28,7 +28,7 @@ export default function Header() {
             <Link href="/syllabus">Syllabus</Link>
             <Link href="/courses">Courses</Link>
             <Link href="/about">About</Link>
-            <Link href="/contact">Contant</Link>
+            <Link href="/contact">Contant Us</Link>
           </Flex>
           <Box>
             <Button
