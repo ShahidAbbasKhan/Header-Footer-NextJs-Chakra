@@ -32,7 +32,7 @@ export default function Header() {
           </Flex>
           <Box>
             <Button
-              bg={"#B9122D"}
+              bg={"#C9112D"}
               float="right"
               size={"md"}
               mt="15px"
